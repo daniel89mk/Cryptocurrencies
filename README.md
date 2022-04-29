@@ -9,8 +9,10 @@ for this new investment.
 
 ### Work on this analysis:
 - Deliverable 1: Preprocessing the Data for PCA
+  - PCA (Principle Component Analysis): PCA reduces number of dimensions by transforming a large set of variables into a smaller one
 - Deliverable 2: Reducing Data Dimensions Using PCA
 - Deliverable 3: Clustering Cryptocurrencies Using K-means
+  - K-means algorithm: is an unsupervised learning algorithm used to identify and solve clustering issues
 - Deliverable 4: Visualizing Cryptocurrencies Results
 
 ![elbow_curve_crypto](Resources/elbow_curve_crypto.png)
