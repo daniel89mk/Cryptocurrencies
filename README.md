@@ -13,8 +13,8 @@ for this new investment.
 - Deliverable 3: Clustering Cryptocurrencies Using K-means
 - Deliverable 4: Visualizing Cryptocurrencies Results
 
-![elbow_curve_crypto](elbow_curve_crypto.png)
+![elbow_curve_crypto](Resources/elbow_curve_crypto.png)
 
-![newplot](newplot.png)
+![newplot](Resources/newplot.png)
 
-![bokeh_plot](bokeh_plot.png)
+![bokeh_plot](Resources/bokeh_plot.png)
